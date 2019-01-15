@@ -7,3 +7,4 @@ Add Constraint CK_tblPerson_Age Check (Age > 0 AND Age < 150)
 
 Alter Table tblPerson
 Drop Constraint Ck_tblPerson_Age
+Drop Constraint Ck_tblPerson_Age
